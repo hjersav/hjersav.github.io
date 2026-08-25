@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "hjersav",
+    "description": "",
+    "home_page_url": "https://hjersav.github.io",
+    "feed_url": "https://hjersav.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://hjersav.github.io/media/website/Empty.png",
+    "author": {
+        "name": "hjersav"
+    },
+    "items": [
+    ]
+}
